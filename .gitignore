@@ -1,0 +1,8 @@
+# Python environments
+alphabrain.egg-info
+
+# Developer tools
+.vscode 
+
+#build
+build
