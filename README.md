@@ -5,7 +5,6 @@
 
 ## Build status
 
-[![Build Status](https://travis-ci.org/LeonHillmann/alphabrain.svg?branch=master)](https://travis-ci.org/LeonHillmann/alphabrain)
 
 ## Contribution
 If you want to contribute to alphaBrain, be sure to review the contribution guidelines. This project adheres to alphaBrain's code of conduct. By participating, you are expected to uphold this code.
