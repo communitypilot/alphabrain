@@ -2,6 +2,7 @@
 <div align="center">
   <img src="bg.png">
 </div>
+
 ## Build status
 
 [![Build Status](https://travis-ci.org/LeonHillmann/alphabrain.svg?branch=master)](https://travis-ci.org/LeonHillmann/alphabrain)
