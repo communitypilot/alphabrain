@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: alphabrain
+Version: 0.0.1
+Summary: Computational Neuroscience
+Home-page: https://github.com/LeonHillmann/alphabrain
+Author: Leon Hillmann
+Author-email: leon.hillmannt@gmail.com
+License: MIT
+Description: Library for Deep Learning and Computational Neuroscience
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Beta Experimental
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides-Extra: visualize
+Provides-Extra: tests

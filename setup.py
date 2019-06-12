@@ -1,11 +1,14 @@
 from setuptools import setup
 from setuptools import find_packages
-setup(name='AlphaBrain',
-      version='2.2.4',
+
+long_description = 'Library for Deep Learning and Computational Neuroscience'
+
+setup(name='alphabrain',
+      version='0.0.1',
       description='Computational Neuroscience',
-      long_description="Whatthefuck",
+      long_description=long_description,
       author='Leon Hillmann',
-      author_email='leon.hillmann@gmail.com',
+      author_email='leon.hillmannt@gmail.com',
       url='https://github.com/LeonHillmann/alphabrain',
       download_url='',
       license='MIT',
@@ -16,7 +19,7 @@ setup(name='AlphaBrain',
                         'h5py',
                         'keras_applications>=1.0.6',
                         'keras_preprocessing>=1.0.5'
-                        "keras",
+                        "keras"
                         "tensorflow"],
       extras_require={
           'visualize': ['pydot>=1.2.4'],
@@ -30,7 +33,7 @@ setup(name='AlphaBrain',
                     'markdown'],
       },
       classifiers=[
-          'Development Status :: 5 - Production/Stable',
+          'Development Status :: 5 - Beta Experimental',
           'Intended Audience :: Developers',
           'Intended Audience :: Education',
           'Intended Audience :: Science/Research',
