@@ -2,9 +2,6 @@
 <div align="center">
   <img src="bg.png">
 </div>
-| **`Documentation`** |
-|-----------------|
-| [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.alphaBrain.org/api_docs/) |
 
 ## Contribution
 If you want to contribute to alphaBrain, be sure to review the contribution guidelines. This project adheres to alphaBrain's code of conduct. By participating, you are expected to uphold this code.
