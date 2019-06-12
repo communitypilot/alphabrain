@@ -11,7 +11,7 @@ We use GitHub issues for tracking requests and bugs, please see alphaBrain Discu
 The alphaBrain project strives to abide by generally accepted best practices in open-source software development:
 
 
-#Notes: 
+##Notes: 
 Core: Layers: core.py
 Engine: Sequentail
 
