@@ -12,3 +12,5 @@ python3 setup.py bdist_wheel
 Disclaimer: 
 We are open for contributions
 
+![logo](bg.png)
+
