@@ -19,8 +19,7 @@ setup(name='alphabrain',
                         'h5py',
                         'keras_applications>=1.0.6',
                         'keras_preprocessing>=1.0.5'
-                        "keras"
-                        "tensorflow"],
+                        ],
       extras_require={
           'visualize': ['pydot>=1.2.4'],
           'tests': ['pytest',
