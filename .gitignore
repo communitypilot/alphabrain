@@ -6,3 +6,6 @@ alphabrain.egg-info
 
 #build
 build
+
+#mac os 
+.DS_Store
